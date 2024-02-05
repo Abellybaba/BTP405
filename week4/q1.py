@@ -1,4 +1,3 @@
-#def getPrimeNumbers(n):
 
 def is_prime(number):
     """Check if a number is prime."""

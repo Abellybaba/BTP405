@@ -28,6 +28,4 @@ def graphSnowfall(t):
     plt.grid(axis='y', linestyle='--')
     plt.show()
 
-# Example usage
-# Replace 'snowfall_data.txt' with the path to your actual data file
 graphSnowfall('t.txt')
